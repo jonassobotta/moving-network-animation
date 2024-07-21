@@ -1,7 +1,6 @@
 # Ignore development directories
 node_modules
 examples
-docs
 
 # Ignore build scripts and configs
 webpack.config.js
