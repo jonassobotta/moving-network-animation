@@ -2,7 +2,7 @@
 
 This project uses JavaScript and HTML5 Canvas to animate a network of nodes and edges. The nodes dynamically interact and form edges based on their proximity, creating a network-like pattern.
 
-![Example Image](docs/img/network-example.png)
+![Example Image](img/network-example.png)
 
 
 ## Installation
@@ -10,11 +10,12 @@ This project uses JavaScript and HTML5 Canvas to animate a network of nodes and 
 To install and run the Moving Network Animation on your local machine, follow these simple steps:
 
 ```bash
-git clone https://github.com/jonassobotta/moving-network-animation.git
-cd moving-network-animation
-# Open the index.html in your web browser
-open index.html # Use `start index.html` on Windows or `xdg-open index.html` on Linux
+npm install moving-network-installation
 ```
+
+## Usage
+
+find usage examples on the [GitHub page](https://github.com/jonassobotta/moving-network-animation) of this project in the examples folder.
 
 ## Configuration
 

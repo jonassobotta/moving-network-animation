@@ -2,7 +2,7 @@
 
 This project uses JavaScript and HTML5 Canvas to animate a network of nodes and edges. The nodes dynamically interact and form edges based on their proximity, creating a network-like pattern.
 
-![Example Image](img/network-example.png)
+![Example Image](https://github.com/jonassobotta/moving-network-animation/blob/main/docs/img/network-example.png?raw=true)
 
 
 ## Installation
