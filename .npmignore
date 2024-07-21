@@ -1,0 +1,28 @@
+# Ignore development directories
+node_modules
+examples
+docs
+
+# Ignore build scripts and configs
+webpack.config.js
+babel.config.json
+
+# Ignore miscellaneous files
+.DS_Store
+Thumbs.db
+
+# Ignore Git-related files
+.git
+.gitignore
+
+# Ignore package lock files
+package-lock.json
+
+# Ignore build output (you may want to include this if your build output is part of the package)
+src
+
+# Ignore IDE files
+*.log
+*.swp
+.idea/
+.vscode/
